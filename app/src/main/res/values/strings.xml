@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BotanicalGarden</string>
+    <string name="btnShowMap">Show Map</string>
+    <string name="btnMap">Show Map</string>
+    <string name="txtLookingAt">You are looking at...</string>
+    <string name="txtWelcome">Welcome to UNCC\'s Botanical Garden</string>
+    <string name="btnEnterGarden">Enter The Garden!</string>
+</resources>
